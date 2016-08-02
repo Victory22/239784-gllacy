@@ -1,7 +1,6 @@
 # Личный проект «Глейси»
 
 * Студент: [Виктория Логинова](https://up.htmlacademy.ru/htmlcss/14/user/239784).
-
 * Наставник:[Балабанович Владислав](https://htmlacademy.ru/profile/id6394).
 
 ---
