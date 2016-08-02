@@ -2,7 +2,7 @@
 
 * Студент: [Виктория Логинова](https://up.htmlacademy.ru/htmlcss/14/user/239784).
 
-* Наставник:[Балабанович Владислав](https://htmlacademy.ru/profile/id6394).
+* Наставник:[Балабанович	&#128084; Владислав](https://htmlacademy.ru/profile/id6394).
 
 ---
 
