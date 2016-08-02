@@ -2,6 +2,7 @@
 
 * Студент: [Виктория Логинова](https://up.htmlacademy.ru/htmlcss/14/user/239784).
 * Наставник: `Неизвестно`.
+* Наставник:[Балабанович Владислав](https://htmlacademy.ru/profile/id6394).
 
 ---
 
